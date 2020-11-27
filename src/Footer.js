@@ -6,22 +6,7 @@ const Footer = (props) => {
   return (
 
     <div class="footer">
-<Table dark>
-      <thead>
-        <tr>
-          <th></th>
-          <th>Professor</th>
-          <th>E-mail</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <th scope="row">1</th>
-          <td>Fábio Machado</td>
-          <td>E-mail@hotmail.com</td>
-        </tr>
-      </tbody>
-    </Table>
+
 
     </div>
     
