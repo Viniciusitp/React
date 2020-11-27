@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, Button, CardTitle, CardText, Row, Col } from 'reactstrap';
+import { Card, Button, Row, Col } from 'reactstrap';
 import ReactPlayer from 'react-player'
 import { Container } from 'reactstrap';
 import meet from '../../meet.png'
